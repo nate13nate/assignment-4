@@ -25,3 +25,5 @@ The script regression.py can be run with the following command:
     python regression.py
 
 The file which holds the data should be included in the repository's root directory and have the name "Salary_Data.csv".
+
+https://youtu.be/fbFKGpAg2WI

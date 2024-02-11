@@ -35,7 +35,7 @@ df_modified = df.filter(['Duration', 'Pulse', 'Calories'])
 print(df_modified)
 print()
 
-print('### df WITH COLUMN "Maxpulse" DELETED ##')
+print('### df WITH COLUMN "Maxpulse" DELETED ###')
 df = df_modified
 print(df)
 print()
